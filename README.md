@@ -17,7 +17,7 @@ To make this project, you will need the following hardware components (links for
 - Through-hole prototyping [board](https://ardushop.ro/ro/breadboards-pcb-expansions/1497-placa-pcb-prototipare-fata-dubla-5x7.html)
 
 ## Installation
-Ensure you have the necessary libraries installed:
+- Ensure you have the necessary libraries installed:
   ### Display ones:
   - Wire.h
   - Adafruit_GFX.h
