@@ -32,6 +32,12 @@ Ensure you have the necessary libraries installed:
 - Pin Definitions: Modify the pin definitions in the code to match your hardware configuration, if necessary.
 - Threshold Values: Adjust the DrySoilValue and WateredSoilValue constants according to your soil moisture sensor's calibration.
 
+## Roadmap
+- Implement BLE functionality.
+- Connect the ESP to a mobile app, and add push notifications for when the RH% is lower than a threshold value.
+- Add a battery for cable-free usage.
+- Make it possible to use the same ESP with multiple moisture sensors (multiple plants).
+
 ## License
   This project is licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0.txt).
 
